@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 命名空间mapper,如果有多个mapper文件，这个必须唯一 -->
+<mapper namespace="com.ccybase.test.mapper">
+<!--数据库字段与model名字不一致时进行匹配-->
+    <resultMap id="VCTestMap" type="com.ccybase.model.VcTest">
+        <id property="id" column="id"/>
+        <result property="vcId" column="vc_id"/>
+    </resultMap>
+
+    <!--登录case-->
+    <select id="loginTest" parameterType="Integer"  resultType="com.ccybase.model.LoginTest">
+        select * from logintest
+            WHERE id=#{id}
+    </select>
+    <select id="loginTestAll" parameterType="Integer"  resultType="com.ccybase.model.LoginTest">
+        select * from logintest
+    </select>
+    <!--验证菜单表是否插入数据成功-->
+    <select id="vcTest" parameterType="Integer" resultType="com.ccybase.model.VcTest" resultMap="VCTestMap">
+        select * from vctest
+        where id=#{id};
+    </select>
+
+</mapper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="菜单管理系统测试">
+    <test name="menu">
+        <classes>
+            <class name="com.ccybase.cases.LoginTestCase">
+                <methods>
+                    <include name="loginTestCase"/>
+                </methods>
+            </class>
+            <class name="com.ccybase.cases.QueryVcTestCase"></class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.ccybase.config.ExtentTestNGIReporterListener"/>
+    </listeners>
+
+</suite>
