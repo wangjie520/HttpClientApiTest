@@ -4,13 +4,11 @@ import com.ccybase.config.TestConfig;
 import com.ccybase.model.LoginTest;
 import com.ccybase.model.TestApiName;
 import com.ccybase.util.ConfigFile;
-import com.ccybase.util.DatabaseUtil;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.StringEntity;
+
+import com.ccybase.util.GetDataUtil;
+import com.ccybase.util.PostWithBody;
 import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.util.EntityUtils;
-import org.apache.ibatis.session.SqlSession;
+
 import org.json.JSONObject;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
@@ -18,9 +16,9 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.util.ArrayList;
+
 import java.util.Iterator;
-import java.util.List;
+
 
 
 public class LoginTestCase {
@@ -30,6 +28,7 @@ public class LoginTestCase {
     public void beforeTest(){
         TestConfig.LoginUrl=ConfigFile.getUrl(TestApiName.LOGIN);
         TestConfig.QueryVcUrl=ConfigFile.getUrl(TestApiName.QUERYVC);
+        TestConfig.TotalResultsUrl=ConfigFile.getUrl(TestApiName.TOTALRESULTS);
         TestConfig.defaultHttpClient=new DefaultHttpClient();
 
     }
@@ -47,14 +46,8 @@ public class LoginTestCase {
     }
     @DataProvider(name="loginData")
     private Iterator<Object[]> LoginDataProvider() throws IOException {
-        List<Object[]> result=new ArrayList<Object[]>();
-        SqlSession session=DatabaseUtil.getSqlSession();
-        List<Object> alldata=session.selectList("loginTestAll");
-        Iterator it=alldata.iterator();
-        while(it.hasNext()){
-        result.add(new Object[]{ it.next() });
-        }
-        return  result.iterator();
+        Iterator<Object[]> logintestdata=GetDataUtil.GetDataProvider("loginTestAll");
+        return logintestdata;
 
     }
 
@@ -62,22 +55,12 @@ public class LoginTestCase {
         JSONObject param=new JSONObject();
         param.put("mobile",loginTest.getMobile());
         param.put("password",loginTest.getPassword());
-
-        HttpPost post=new HttpPost(TestConfig.LoginUrl);
-        post.setHeader("content-type","application/json");
-        post.setEntity(new StringEntity(param.toString()));
-        HttpResponse response=TestConfig.defaultHttpClient.execute(post);
-
-        TestConfig.cookieStore=TestConfig.defaultHttpClient.getCookieStore();
-       /* List<Cookie> cookieList=store.getCookies();
-        for(Cookie cookie:cookieList){
-            String name=cookie.getName();
-            String value=cookie.getValue();
-            System.out.println(name+":"+value);
-        }*/
-
-        String result= EntityUtils.toString(response.getEntity(),"utf-8");
+        PostWithBody post=new PostWithBody();
+        post.setPARAM(param);
+        post.setTESTURL(TestConfig.LoginUrl);
+        String result=post.PostWithBodyResult();
         return  result;
+
     }
 }
 

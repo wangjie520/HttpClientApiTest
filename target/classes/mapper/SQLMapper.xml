@@ -18,9 +18,8 @@
         select * from logintest
     </select>
     <!--验证菜单表是否插入数据成功-->
-    <select id="vcTest" parameterType="Integer" resultType="com.ccybase.model.VcTest" resultMap="VCTestMap">
+    <select id="vcTest" resultType="com.ccybase.model.VcTest" resultMap="VCTestMap">
         select * from vctest
-        where id=#{id};
     </select>
 
 </mapper>

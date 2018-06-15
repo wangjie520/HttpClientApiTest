@@ -18,6 +18,9 @@ public class ConfigFile {
         if(name==TestApiName.QUERYVC){
             uri=bundle.getString("vc.uri");
         }
+        if(name==TestApiName.TOTALRESULTS){
+            uri=bundle.getString("results");
+        }
         testUrl=address+uri;
         return  testUrl;
 

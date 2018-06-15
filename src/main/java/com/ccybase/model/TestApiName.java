@@ -1,5 +1,5 @@
 package com.ccybase.model;
 
 public enum TestApiName {
-   LOGIN,QUERYVC
+   LOGIN,QUERYVC,TOTALRESULTS;
 }

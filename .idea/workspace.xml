@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java" line="58" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cff1e2-ed1d-42d1-82ef-1e6595136488" name="Default" comment="" />
+    <list default="true" id="a1cff1e2-ed1d-42d1-82ef-1e6595136488" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/cases/ResultCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/util/GetDataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/util/GetResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/util/GetWithParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/util/PostWithBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/util/PostWithParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/cases/LoginTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/cases/LoginTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/cases/QueryVcTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/cases/QueryVcTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/config/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/config/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/config/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/config/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/config/TestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/config/TestConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/model/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/model/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/model/TestApiName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/model/TestApiName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/model/VcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/model/VcTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/util/ConfigFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/util/ConfigFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ccybase/util/DatabaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ccybase/util/DatabaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SQLMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SQLMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,33 +45,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SQLMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml">
+      <file leaf-file-name="ConfigFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VcTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/VcTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTestCase.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="296">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1635#1645#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTestCase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="30" column="79" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultCase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/ResultCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -47,8 +90,8 @@
       <file leaf-file-name="QueryVcTestCase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="190">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,14 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java">
+      <file leaf-file-name="TestApiName.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -71,8 +111,45 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="133">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetWithParam.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/GetWithParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/GetResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -87,23 +164,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/cases/AddMenuTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/AddMenuTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ccybase/model/VcTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ccybase/model/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/util/GetDataUtil.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/util/PostWithParam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/util/PostWithBody.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/util/GetWithParam.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ccybase/cases/ResultCase.java" />
       </list>
     </option>
   </component>
@@ -129,14 +214,16 @@
     <option name="width" value="1340" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,7 +264,25 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ccybase" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javachekuangdashi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javachekuangdashi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ccybase" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javachekuangdashi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javachekuangdashi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ccybase" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javachekuangdashi" type="b2602c69:ProjectViewProjectNode" />
@@ -199,9 +304,7 @@
               <item name="javachekuangdashi" type="b2602c69:ProjectViewProjectNode" />
               <item name="javachekuangdashi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javachekuangdashi" type="b2602c69:ProjectViewProjectNode" />
@@ -217,6 +320,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,63 +531,65 @@
       <updated>1528428443123</updated>
       <workItem from="1528428463574" duration="14327000" />
       <workItem from="1528680432648" duration="1536000" />
-      <workItem from="1528686712101" duration="15695000" />
+      <workItem from="1528686712101" duration="20956000" />
+      <workItem from="1528964048511" duration="13123000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 15h 29m 57s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 15h 32m 59s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 15h 33m 12s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 15h 35m 03s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 15h 39m 42s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 15h 40m 16s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 16h 12m 51s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 16h 14m 25s.xml">
-      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 16h 15m 23s.xml">
       <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.11 at 16h 17m 47s.xml">
       <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.14 at 16h 47m 51s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.14 at 16h 55m 22s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.14 at 17h 11m 03s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.14 at 17h 26m 48s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.14 at 17h 30m 15s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.15 at 10h 30m 46s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.15 at 10h 34m 11s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__workspace_javachekuangdashi_src_main_resources_testng_xml - 2018.06.15 at 11h 38m 01s.xml">
+      <configuration name="E:/workspace/javachekuangdashi/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31558000" />
+    <option name="totallyTimeSpent" value="49942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="17" width="1340" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32984293" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32867134" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33041957" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -511,51 +617,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/VcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -589,7 +650,6 @@
           <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1635#1645#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -672,20 +732,12 @@
           <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1635#1645#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/cases/AddMenuTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/AddMenuTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/internal/ObjectFactoryImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -735,79 +787,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/databaseConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/DatabaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/VcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/TestRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -819,23 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="93" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -853,14 +816,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="380">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/databaseConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/DatabaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1635#1645#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/GetResultGetWithParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/GetDataUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1004">
+          <caret line="828" column="69" selection-start-line="828" selection-start-column="63" selection-end-line="828" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/config/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/VcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/PostWithParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/PostWithBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/GetWithParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/GetResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/config/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/model/TestApiName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/util/ConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/LoginTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="30" column="79" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/QueryVcTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ccybase/cases/ResultCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
